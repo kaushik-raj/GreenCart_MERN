@@ -21,7 +21,7 @@ await connectDB()
 await connectCloudinary()
 
 // Allow multiple origins
-const allowedOrigins = ['http://localhost:5173', 'https://green-cart-mern-brown.vercel.apphttps://green-cart-mern-9py3.vercel.app']
+const allowedOrigins = ['http://localhost:5173', 'https://green-cart-mern-brown.vercel.app']
 
 // Stripe webhook endpoint
 // This endpoint is used to handle incoming webhook events from Stripe, such as payment confirmations or order updates.
