@@ -60,24 +60,24 @@ A full-stack food delivery platform that allows users to browse food items, add 
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots  
 
-
-
-```
-### 🏠 Homepage   show the list of food items displayed to users.
+### 🏠 Homepage  
+Show the list of food items displayed to users.  
 ![Homepage Screenshot](https://raw.githubusercontent.com/kaushik-raj/GreenCart_MERN/main/screenshots/homepage.png)
 
-### 🔑 Login   capture the authentication page.
+### 🔑 Login  
+Capture the authentication page.  
 ![Login Screenshot](https://raw.githubusercontent.com/kaushik-raj/GreenCart_MERN/main/screenshots/login.png)
 
-### 🛒 Cart  show items added to the cart with quantity and total price.
+### 🛒 Cart  
+Show items added to the cart with quantity and total price.  
 ![Cart Screenshot](https://raw.githubusercontent.com/kaushik-raj/GreenCart_MERN/main/screenshots/cart.png)
 
-### 📦 Order History  show past orders with payment status.
+### 📦 Order History  
+Show past orders with payment status.  
 ![Order History Screenshot](https://raw.githubusercontent.com/kaushik-raj/GreenCart_MERN/main/screenshots/orders.png)
 
-```
 
 ---
 
